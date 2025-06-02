@@ -423,15 +423,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/trapped_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2025-06-02 22:42:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2025-06-02 22:42:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-06-02 22:42:51 +0000"
     },
     "done": true
   },
@@ -1702,12 +1702,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-06-02 22:58:36 +0000",
       "minecraft:snowy_mountains": "2025-06-02 02:09:27 +0000",
       "minecraft:forest": "2025-06-02 02:49:26 +0000",
       "minecraft:mountains": "2025-06-02 03:04:21 +0000",
       "minecraft:taiga": "2025-06-02 04:22:13 +0000",
+      "minecraft:desert_hills": "2025-06-02 23:00:30 +0000",
+      "minecraft:deep_cold_ocean": "2025-06-02 22:58:16 +0000",
       "minecraft:snowy_tundra": "2025-06-02 02:11:00 +0000",
       "minecraft:taiga_hills": "2025-06-02 04:22:50 +0000",
+      "minecraft:desert": "2025-06-02 23:01:31 +0000",
       "minecraft:frozen_river": "2025-06-02 02:10:58 +0000",
       "minecraft:birch_forest": "2025-06-02 04:32:01 +0000",
       "minecraft:snowy_beach": "2025-06-02 02:16:49 +0000",
